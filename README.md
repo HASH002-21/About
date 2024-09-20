@@ -13,7 +13,7 @@ latest technological advancements
 ## Objective
 
 
-My journey in computer applications has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer applications has led me to develop a passion for cybersecurity, and I am now eager to apply my knowledge and skills in a professional setting, contributing to the security and efficiency of an organization’s IT infrastructure.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
